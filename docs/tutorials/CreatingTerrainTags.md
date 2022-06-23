@@ -67,7 +67,7 @@ Events.onStepTakenTransferPossible+=proc {|sender,e|
   handled=e[0]
   next if handled[0]
   if $PokemonGlobal.stepcount % 4 == 0 && POISONINFIELD
-    tag = pbGetTerrainTag(event)
+    tag = pbGetTerrainTag($game_player)
     flashed=false
     for i in $Trainer.party
       if (i.status==PBStatuses::POISON || PBTerrain.isToxic?(tag)) &&

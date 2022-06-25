@@ -42,7 +42,7 @@ nav:
   - Introducción: "index.md"
   - Conceptos básicos:
     - Archivos de la carpeta raíz: "basic_concepts/ArchivosdePokemonEss"
-    - PBS: ""
+    - PBS: "basic_concepts/pbs.md"
     - Creación de tilesets: ""
   - Pokémon:
     - Definir Pokémon: "pokemon/DefPoke"

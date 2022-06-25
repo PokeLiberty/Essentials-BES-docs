@@ -66,6 +66,7 @@ nav:
     - Interfaces Pokémon: ""
     - Interfaces del sistema: ""
   - Jugador:
+    - Datos del jugador: "jugador/DatosJugador"
     - Ajustes (Switches): ""
     - Cambiar aspecto: ""
     - Definir protagonistas: ""

@@ -58,6 +58,7 @@ nav:
     - Definir un mapa: ""
     - Terrain tags: "maps/TerrainTags"
     - Estructuras: ""
+    - Movimientos de campo: "maps/FieldMoves"
   - Eventos:
     - Introducción a los eventos: "events/Introduction"
     - Interruptores y variables: "events/SwitchesAndVariables"
